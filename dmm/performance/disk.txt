@@ -1,0 +1,529 @@
+EBS 1 File
+
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 716.2042604367236MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 719.921480188935MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 729.8575317171511MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 736.3448207530976MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 728.0936668441175MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 732.1431399954507MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 728.4922595328402MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 725.2427850793831MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 731.1244555112157MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 733.6217919413077MBps
+
+EBS 2 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1366.553098586353MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1379.8849719397863MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1374.367667730038MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1370.07180613903MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1374.331263358711MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1372.4953885042912MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1362.1813274724416MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1364.1684153567237MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1359.8843926155907MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1364.636256209239MBps
+
+
+EBS 3 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2040.1065177864932MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2030.6383158587012MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2049.9792494987796MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2022.6745743989493MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2044.9380855753348MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2049.736535426322MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2086.9580217402086MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2034.936392101337MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2036.5809814045483MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2033.539616377544MBps
+
+
+EBS 4 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2476.302302358933MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2457.9707022926254MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2446.4288684330736MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2473.8004794985104MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2459.19900955952MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2477.925673488144MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2478.192200560782MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2482.60991305811MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2702.746238545961MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2482.048583618976MBps
+
+EBS 5 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3322.3250817095677MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3376.7757645933116MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3336.5305941862985MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3336.006858314062MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3271.934590336388MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3354.666274251085MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3363.222731669305MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3356.0760118468725MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3371.591593112581MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3335.997694351256MBps
+
+EBS 6 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4033.058235284654MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4009.399208984821MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3979.007072137828MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3981.560937669292MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4034.1646629166457MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2973.9513863385146MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4011.954037578794MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3941.030519416033MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3989.059844955515MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3937.796810593394MBps
+
+
+EBS 7 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4608.114049506121MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4583.824689220299MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4494.561547921378MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4597.962928716055MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4632.231035107826MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4578.569984281529MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4567.442481648201MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4389.567061213953MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4545.843941311942MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4540.598676693952MBps
+
+EBS 8 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 5168.086466992238MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4972.957606523469MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4963.398534754828MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 5206.532399263456MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4970.924533273269MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 5164.996969378762MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 5185.150068958888MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 5184.778965404395MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 5246.109064906573MBps
+
+SSD 1 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 446.1854593321309MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 456.88070552089647MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 449.9104553853296MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 459.81262985581276MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 451.4724263515412MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 464.7305961590138MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 458.85033099455404MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 454.26021711855054MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 448.8852478879048MBps
+
+SSD 2 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 621.5911348798604MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 581.6155456402272MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 655.7454142098229MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 610.01737785218MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 658.4801499281107MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 657.9386229477881MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 617.7740954178406MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 637.0462003180616MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 595.49235744556MBps
+
+SSD 3 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 725.6436850299195MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 755.3819919423521MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 776.4276453638504MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 693.2373187611479MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 689.0425921405496MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 714.071473251934MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 738.9736418662148MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 735.4002088153572MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 709.1332701338005MBps
+
+SSD 4 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 694.9597242115043MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 693.3687187739192MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 828.7137766952309MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 700.8518991376942MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 704.6747094524239MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 698.4273345966807MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 697.4280082705359MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 694.0713620241172MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 687.6346611442691MBps
+
+
+SSD 5 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 649.4000659546942MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 655.5862760752095MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 656.1013820485493MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 661.387129608956MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 651.919464049267MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 657.5853356074083MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 659.4421339429579MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 661.5331781623883MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 658.7747879730642MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 654.6513274734488MBps
+
+
+SSD 6 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 788.2671211724565MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 780.2454332110341MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 775.5866072869044MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 774.2622495272492MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 742.9258619377905MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 918.7886149795825MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 736.0698601067292MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 788.0968747980719MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 739.1298988046381MBps
+
+2 SSD 4 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1375.6922870837923MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1394.3260332615453MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1336.6811548436192MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1313.1681614646436MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1329.9141681642893MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1302.9144293580569MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1308.1704874899685MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1296.9232450262305MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1338.5167026643348MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1367.0048366747044MBps
+
+2 SSD 6 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1484.7232059090745MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1368.4891380141596MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1420.255488585542MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1386.6272353213044MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1394.788223698963MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1418.7559603539305MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1350.4976983628626MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1751.037833055661MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1493.7971771704044MBps
+
+Memory Mapped 1 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1401.6544614593067MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1441.8851986606473MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1434.4447956063673MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1400.6980263713413MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1442.5938960769838MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1451.2811110309756MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1399.0479833700194MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1453.0992575094183MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1400.4470867148877MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 1401.7659058110394MBps
+
+Memory Mapped 2 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2640.079090169344MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2617.119543485615MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2622.351205366165MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2613.280537036092MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2599.455035421357MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2597.208346983261MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2584.685719443547MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2595.559160498834MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2588.4961654020335MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 2599.123283734996MBps
+
+Memory Mapped 3 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3717.218983817022MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3676.29608841785MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3689.1328564965797MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3534.001158931505MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3690.801827417866MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3643.5948178052317MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3659.037114521065MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3689.3088872424705MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3660.4725275388355MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3634.001294631888MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 3633.3982535181867MBps
+
+Memory Mapped 4 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4832.603624737295MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4716.53400340051MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4771.152919865795MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4784.450472421148MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4838.527070426111MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4765.042734441178MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4791.725509878726MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4697.3219047155MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4737.132350793949MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 4747.943568965844MBps
+
+Memory Mapped 5 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 5673.03228459738MBps
+[smash@ip-10-0-153-153 dmm]$ 
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 5772.938017150668MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 5755.663021578295MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 5692.9139688286505MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 5683.500753354685MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 5743.9982891501095MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 5728.3794585244395MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 5744.620748351206MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 5778.45906211402MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 5755.516681287066MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 5814.136975943446MBps
+
+
+Memory Mapped 6 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 6842.613438107407MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 6630.05995892134MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 6367.637490662974MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 6697.20080093551MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 6612.683476915995MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 6598.625727933454MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 6631.097290991046MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 6519.213627156385MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 6693.095825458179MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 6760.72809863728MBps
+
+
+Memory Mapped 7 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 7702.540902759542MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 7626.156026522136MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 7468.578778429336MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 7506.542122157893MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 7527.72210738362MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 6964.759960568187MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 7660.860985911811MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 7647.2750051458015MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 7512.09285557127MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 7246.562579190407MBps
+
+Memory Mapped 8 File
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 8557.703211740698MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 8474.281818787935MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 8610.634805008265MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 8267.858477927988MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 8407.48810711442MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 8413.44253097122MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 8355.3921670222MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 8378.148433164437MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 8482.126857194136MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 8092.292804908352MBps
+[smash@ip-10-0-153-153 dmm]$ ./rundisktest.sh
+Throughput 8124.4639472836225MBps
+
